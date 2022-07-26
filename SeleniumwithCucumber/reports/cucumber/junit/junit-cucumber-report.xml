@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="8.477">
+    <testcase classname="&quot;Successful Login&quot;" name="&quot;Successful login with valid credentials&quot;" time="8.276">
+        <system-out><![CDATA[Given user is on page "https://login.yahoo.com/?.src=ym&pspid=1197806870&activity=header-signin&.lang=en-IN&.intl=in&.done=https%3A%2F%2Fin.mail.yahoo.com%2Fd%3F.intl%3Din%26.lang%3Den-IN%26pspid%3D2114723002%26activity%3Dheader-mail".passed
+]]></system-out>
+    </testcase>
+</testsuite>

@@ -1,0 +1,56 @@
+[
+  {
+    "line": 20,
+    "elements": [
+      {
+        "start_timestamp": "2022-07-26T05:32:38.057Z",
+        "line": 23,
+        "name": "\"Successful login with valid credentials\"",
+        "description": "",
+        "id": "\"successful-login\";\"successful-login-with-valid-credentials\"",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8191937500,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "user is on page \"https://login.yahoo.com/?.src\u003dym\u0026pspid\u003d1197806870\u0026activity\u003dheader-signin\u0026.lang\u003den-IN\u0026.intl\u003din\u0026.done\u003dhttps%3A%2F%2Fin.mail.yahoo.com%2Fd%3F.intl%3Din%26.lang%3Den-IN%26pspid%3D2114723002%26activity%3Dheader-mail\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://login.yahoo.com/?.src\u003dym\u0026pspid\u003d1197806870\u0026activity\u003dheader-signin\u0026.lang\u003den-IN\u0026.intl\u003din\u0026.done\u003dhttps%3A%2F%2Fin.mail.yahoo.com%2Fd%3F.intl%3Din%26.lang%3Den-IN%26pspid%3D2114723002%26activity%3Dheader-mail",
+                  "offset": 17
+                }
+              ],
+              "location": "MadhaviPractice.SeleniumwithCucumberStep.LoginStepDefinition.user_is_on_page(java.lang.String)"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          }
+        ]
+      }
+    ],
+    "name": "\"Successful Login\"",
+    "description": "  I want to login to application",
+    "id": "\"successful-login\"",
+    "keyword": "Feature",
+    "uri": "file:src/main/java/MadhaviPractice/SeleniumwithCucumber/loginFeature.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 19,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
